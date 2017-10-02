@@ -1,0 +1,14 @@
+Git 
+
+30 September 2017
+13:08
+
+	• Git --version to check git
+	• Create new folder 
+	• In the folder location bar, type cmd and enter
+	• In the cmd where location is the folder, type git init
+	• Remote repository will be created
+	• 'dir > file.txt' to create a text file using cmd command
+	• Git status will show any untracked file
+	• Git add file.txt or *.txt(for all txt) or *.* or .( for all types)
+	• Git commit -m "message" to commit to remote repo

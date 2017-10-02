@@ -1,0 +1,10 @@
+ Volume in drive Z is Pocket
+ Volume Serial Number is 8047-B67D
+
+ Directory of Z:\Antriksh\git practise
+
+30-09-2017  12:49    <DIR>          .
+30-09-2017  12:49    <DIR>          ..
+30-09-2017  12:49                 0 hello.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  479,202,938,880 bytes free
